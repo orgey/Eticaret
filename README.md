@@ -1,0 +1,2 @@
+# Eticaret
+Eticaret detay ödevi
