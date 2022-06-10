@@ -30,3 +30,7 @@ body {
 .price-tag {
     background-color: #f7f7f7;
 }
+
+.kutu:hover {
+    background-color: #f7f7f7;
+}
